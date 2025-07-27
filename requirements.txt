@@ -1,0 +1,6 @@
+PyMuPDF==1.26.3
+python-docx==1.2.0
+google-ai-generativelanguage==0.6.15
+numpy==1.26.4
+scikit-learn==1.7.0
+streamlit==1.45.1
